@@ -1,0 +1,10 @@
+body{
+/* Changing backbackgound color */
+    /* background-color: #ffff00; */
+
+     background-image: url(./Images/gestonne.jpg);
+     background-repeat: no-repeat;
+     background-position: center;
+     background-size: cover;
+    color: red;
+}
